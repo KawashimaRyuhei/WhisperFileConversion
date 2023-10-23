@@ -33,7 +33,7 @@ app = gr.Interface(
     fn=create_meeting_summary,
     inputs=inputs,
     outputs=outputs,
-    title="会議サマリー生成アプリ",
+    title="Whisper Transcription",
     description="音声ファイルをアップロードして、会議のサマリーをMarkdown形式で作成します。"
 )
 
