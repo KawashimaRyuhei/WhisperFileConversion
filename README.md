@@ -21,7 +21,7 @@
 
 ## 操作画面
 
-![Input Interface](inputintreface.png)
+![Input Interface](inputinterface.png)
 
 ## コードの説明
 
