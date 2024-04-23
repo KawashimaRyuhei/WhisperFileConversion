@@ -1,14 +1,3 @@
----
-title: WhisperFileConversion
-emoji: ⚡
-colorFrom: yellow
-colorTo: red
-sdk: gradio
-sdk_version: 3.50.2
-app_file: app.py
-pinned: false
-license: apache-2.0
-
 # Whisper File Conversion
 
 ## 概要
@@ -50,6 +39,12 @@ license: apache-2.0
 - OpenAI GPT-3.5 モデル
 - Python 3.8
 - Gradio 2.0.0
+- emoji: ⚡
+- colorFrom: yellow
+- colorTo: red
+- sdk: Gradio
+- sdk_version: 3.50.2
+- license: apache-2.0
 
 ---
 
